@@ -5,7 +5,7 @@ A Flutter project to understand Provider vs Riveropod caces.
 ## Getting Started
 
 This project is a starting point for a Flutter <b>Riverpod lesson case</b>.
-In [provider_vs_riverpod_01](https://github.com/dasaki-gr/provider_vs_rivepod_01) project page you can see same result with Riverpod
+In [provider_vs_riverpod_01](https://github.com/dasaki-gr/provider_vs_rivepod_01) project page you can see same result with Provider
 
 A few resources to get you started if this is your first Flutter provider project:
 
